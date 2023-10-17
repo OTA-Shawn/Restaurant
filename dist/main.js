@@ -1,0 +1,1 @@
+document.getElementById("content").innerHTML="This Is WebPack";
